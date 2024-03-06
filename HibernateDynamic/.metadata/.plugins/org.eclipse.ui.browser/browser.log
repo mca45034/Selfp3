@@ -1,0 +1,165 @@
+
+Feb 25, 2024 10:08:51.31 NEW SESSION
+Feb 25, 2024 10:08:51.31 [20276:19384:0225/100851.311:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 16:19:33.62 [21548:16420:0225/161933.624:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 16:19:34.24 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 25, 2024 16:19:53.98 [21548:16420:0225/161953.979:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 16:20:03.76 [21548:16240:0225/162003.764:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 25, 2024 16:20:03.85 [21548:16240:0225/162003.859:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 25, 2024 16:20:04.37 [21548:16240:0225/162004.378:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 25, 2024 16:20:19.73 [21696:12216:0225/162019.730:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 16:20:20.26 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 25, 2024 16:20:44.28 [21696:12216:0225/162044.284:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 16:21:34.35 [21696:12216:0225/162134.359:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 16:23:08.55 [21696:12216:0225/162308.554:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 16:25:51.35 [21696:12216:0225/162551.350:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Feb 25, 2024 21:34:06.04 NEW SESSION
+Feb 25, 2024 21:34:06.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 25, 2024 21:50:56.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 25, 2024 22:10:40.72 [26440:8712:0225/221040.725:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 22:11:10.63 [26440:8712:0225/221110.632:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 22:11:56.87 [26440:8712:0225/221156.871:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 22:13:50.67 [26440:8712:0225/221350.669:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 22:17:44.96 [26440:8712:0225/221744.965:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 22:24:39.05 [26440:8712:0225/222439.052:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 22:34:39.06 [26440:8712:0225/223439.062:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 22:44:39.07 [26440:8712:0225/224439.070:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 22:54:39.07 [26440:8712:0225/225439.076:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 23:04:39.08 [26440:8712:0225/230439.081:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2024 23:25:04.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 25, 2024 23:34:19.16 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 25, 2024 23:34:29.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 26, 2024 24:03:22.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 26, 2024 24:14:20.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 26, 2024 10:57:02.73 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 26, 2024 12:09:59.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 26, 2024 12:12:51.48 [22264:26276:0226/121251.487:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 26, 2024 12:19:15.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Feb 26, 2024 21:00:47.89 NEW SESSION
+Feb 26, 2024 21:00:47.89 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 26, 2024 22:07:46.55 [3512:13028:0226/220746.556:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 27, 2024 12:00:30.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 27, 2024 12:11:20.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 27, 2024 12:25:41.84 [5724:5732:0227/122541.840:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2024 12:26:11.07 [5724:5732:0227/122611.077:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2024 12:27:08.00 [5724:5732:0227/122708.008:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2024 12:29:03.73 [5724:5732:0227/122903.731:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2024 12:32:23.78 [5724:5732:0227/123223.783:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2024 12:36:24.72 [5724:5732:0227/123624.729:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2024 12:36:39.36 [5724:5732:0227/123639.364:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2024 12:38:15.47 [5724:5732:0227/123815.472:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2024 12:40:24.23 [5724:5732:0227/124024.234:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Feb 27, 2024 12:40:24.23 [5724:5732:0227/124024.234:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -7
+Feb 27, 2024 12:41:24.95 [5724:5732:0227/124124.959:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 27, 2024 12:58:03.93 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 27, 2024 12:58:17.65 [16332:12144:0227/125817.655:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2024 12:59:05.32 [16332:12144:0227/125905.324:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2024 12:59:59.88 [16332:12144:0227/125959.889:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2024 13:01:55.53 [16332:12144:0227/130155.532:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2024 13:12:10.99 [16332:12144:0227/131210.992:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2024 13:13:59.97 [16332:10708:0227/131359.970:ERROR:interface_endpoint_client.cc(707)] Message 5 rejected by interface blink.mojom.WidgetHost
+Feb 27, 2024 13:17:00.17 [16332:12144:0227/131700.169:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 27, 2024 13:35:43.14 [16332:12144:0227/133543.141:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 27, 2024 13:35:45.04 [16332:12144:0227/133545.041:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2024 13:36:12.19 [16332:12144:0227/133612.199:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2024 13:37:08.64 [16332:12144:0227/133708.646:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2024 13:39:06.73 [16332:12144:0227/133906.737:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2024 14:03:22.73 [16332:12144:0227/140322.739:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 27, 2024 14:04:30.78 [16332:12144:0227/140430.787:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -331
+Feb 27, 2024 14:18:22.26 [16332:10708:0227/141822.264:ERROR:device_event_log_impl.cc(192)] [14:18:22.264] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 27, 2024 14:21:12.13 [16332:10708:0227/142112.135:ERROR:device_event_log_impl.cc(192)] [14:21:12.134] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Feb 29, 2024 10:44:33.01 NEW SESSION
+Feb 29, 2024 10:44:33.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 10:48:17.61 [7172:10440:0229/104817.609:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 29, 2024 10:59:54.28 [7172:10440:0229/105954.279:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 29, 2024 11:03:06.26 [7172:10440:0229/110306.259:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 29, 2024 11:03:08.17 [7172:10440:0229/110308.171:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2024 11:03:08.69 [7172:10440:0229/110308.690:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2024 11:03:22.36 [7172:10440:0229/110322.364:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 29, 2024 11:04:03.88 [7172:10440:0229/110403.884:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Feb 29, 2024 11:05:36.21 [7172:10440:0229/110536.216:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Feb 29, 2024 11:21:32.34 [7172:10440:0229/112132.343:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2024 11:22:22.18 [7172:10440:0229/112222.180:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2024 11:28:25.46 [7172:10440:0229/112825.464:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2024 11:31:25.07 [7172:10440:0229/113125.069:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 29, 2024 12:13:25.96 [7172:10440:0229/121325.966:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Feb 29, 2024 12:23:46.70 [7172:10440:0229/122346.707:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Feb 29, 2024 12:23:46.70 [7172:10440:0229/122346.707:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -7
+Feb 29, 2024 12:29:12.55 [7172:10440:0229/122912.549:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Feb 29, 2024 12:30:05.03 [7172:10440:0229/123005.034:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Feb 29, 2024 12:35:31.79 [7172:10440:0229/123531.796:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 29, 2024 12:35:34.09 [7172:10440:0229/123533.837:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2024 12:35:34.67 [7172:9632:0229/123534.671:ERROR:device_event_log_impl.cc(192)] [12:35:34.670] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 29, 2024 12:48:47.68 [7172:10440:0229/124847.687:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 29, 2024 12:52:46.68 [7172:10440:0229/125246.680:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 29, 2024 16:04:00.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:05:16.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:05:41.89 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:07:05.60 [14648:10388:0229/160705.605:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+Feb 29, 2024 16:07:18.13 [8900:16748:0229/160718.130:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+Feb 29, 2024 16:08:18.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:09:31.35 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:10:40.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:11:07.66 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:11:37.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Feb 29, 2024 16:22:15.91 NEW SESSION
+Feb 29, 2024 16:22:15.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:24:12.97 [4312:17560:0229/162412.977:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+Feb 29, 2024 16:25:08.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:26:05.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:26:05.97 [14296:7120:0229/162605.978:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+Feb 29, 2024 16:27:46.06 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:45:39.81 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 16:45:44.41 [5620:19540:0229/164544.410:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+
+Feb 29, 2024 17:35:53.87 NEW SESSION
+Feb 29, 2024 17:35:53.87 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 17:36:13.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 17:36:31.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 17:37:51.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 17:38:31.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 17:39:18.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 17:39:43.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 17:40:01.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 17:41:11.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 17:42:57.81 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Feb 29, 2024 18:09:48.47 NEW SESSION
+Feb 29, 2024 18:09:48.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 18:18:52.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 18:27:34.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 18:31:34.16 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 18:31:55.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 20:18:37.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 20:21:30.23 [19500:20788:0229/202130.202:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+Feb 29, 2024 20:22:02.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 20:22:31.17 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 20:33:37.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 20:37:53.49 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 21:53:41.08 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 22:16:10.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 22:16:48.81 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 22:17:08.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 22:17:19.46 [19744:16860:0229/221719.465:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+Feb 29, 2024 22:17:47.99 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 22:23:19.99 [9324:10900:0229/222319.993:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2024 22:23:21.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 29, 2024 22:23:34.36 [9324:10900:0229/222334.367:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Mar 01, 2024 10:53:16.99 NEW SESSION
+Mar 01, 2024 10:53:16.99 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 01, 2024 11:08:38.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 01, 2024 11:09:17.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 01, 2024 11:09:55.43 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 01, 2024 11:10:25.87 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 01, 2024 11:11:05.16 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 01, 2024 12:52:23.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 01, 2024 12:55:43.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 01, 2024 12:55:43.73 [7904:14528:0301/125543.737:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+Mar 01, 2024 13:03:40.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 01, 2024 13:04:55.48 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 01, 2024 17:08:05.05 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

@@ -1,0 +1,86 @@
+package com.rays.test;
+
+import java.util.Iterator;
+import java.util.List;
+
+import com.rays.dto.EmployeDTO;
+import com.rays.model.EmployeeModelImpl;
+
+public class TestEmployee {
+	public static void main(String[] args) {
+		testAdd();
+		//testUpdate();
+		//testDelete();
+		//testSeach();
+		//testshowEmployeeById();
+	}
+
+	private static void testshowEmployeeById() {
+		EmployeeModelImpl model=new EmployeeModelImpl();
+		EmployeDTO dto=model.showEmployeeById(1);
+		System.out.println(dto.getEmpId());
+		System.out.println(dto.getEmpName());
+		System.out.println(dto.getEmpEmail());
+		System.out.println(dto.getEmpContect());
+		System.out.println(dto.getEmpDestignation());
+		System.out.println(dto.getSalry());
+		System.out.println(dto.getEmpPass());
+		
+	}
+
+	private static void testSeach() {
+		EmployeDTO dto=new EmployeDTO();
+		EmployeeModelImpl model=new EmployeeModelImpl();
+		List list=model.showEmpList(dto);
+		Iterator it=list.iterator();
+		while(it.hasNext()) {
+			dto=(EmployeDTO)it.next();
+			System.out.println(dto.getEmpId());
+			System.out.println(dto.getEmpName());
+			System.out.println(dto.getEmpEmail());
+			System.out.println(dto.getEmpContect());
+			System.out.println(dto.getEmpDestignation());
+			System.out.println(dto.getSalry());
+			System.out.println(dto.getEmpPass());
+		}
+		
+	}
+
+	private static void testDelete() {
+		EmployeDTO dto=new EmployeDTO();
+		dto.setEmpId(2);
+		EmployeeModelImpl model=new EmployeeModelImpl();
+		model.deleteEmployee(dto);
+		
+	}
+
+	private static void testUpdate() {
+		EmployeDTO dto=new EmployeDTO();
+		dto.setEmpId(2);
+		dto.setEmpName("ram");
+		dto.setEmpEmail("ram@gmail.com");
+		dto.setEmpContect("9876765444");
+		dto.setEmpDestignation("it");
+		dto.setSalry(45090);
+		dto.setEmpPass("ram@123");
+		EmployeeModelImpl model=new EmployeeModelImpl();
+		model.updateEmployee(dto);
+		
+	}
+
+	private static void testAdd() {
+		EmployeDTO dto=new EmployeDTO();
+		dto.setEmpId(1);
+		dto.setEmpName("rahul");
+		dto.setEmpEmail("rahul@gmail.com");
+		dto.setEmpContect("9876765656");
+		dto.setEmpDestignation("hr");
+		dto.setSalry(4500);
+		dto.setEmpPass("rahul@123");
+		EmployeeModelImpl model=new EmployeeModelImpl();
+		model.addEmployee(dto);
+		
+	}
+	
+
+}

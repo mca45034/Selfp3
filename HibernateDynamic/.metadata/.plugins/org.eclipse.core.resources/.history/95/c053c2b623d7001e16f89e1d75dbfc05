@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 29-Feb-2024, 10:05:00 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.rays.dto.EmployeDTO" table="EMPLOYEDTO">
+        <id name="empId" type="int">
+            <column name="EMPID" />
+            <generator class="assigned" />
+        </id>
+        <property name="empName" type="java.lang.String">
+            <column name="EMPNAME" />
+        </property>
+        <property name="empEmail" type="java.lang.String">
+            <column name="EMPEMAIL" />
+        </property>
+        <property name="empContect" type="java.lang.String">
+            <column name="EMPCONTECT" />
+        </property>
+        <property name="empDestignation" type="java.lang.String">
+            <column name="EMPDESTIGNATION" />
+        </property>
+        <property name="salry" type="int">
+            <column name="SALRY" />
+        </property>
+        <property name="empPass" type="java.lang.String">
+            <column name="EMPPASS" />
+        </property>
+    </class>
+</hibernate-mapping>
